@@ -9,7 +9,4 @@ Time spent: 7.5 hours spent in total. 3 hours in getting the app working from sc
 Completed user stories:
 	•	 Required: User can add items in a todo list through a text field and an add button, where the text field appears with a hint to indicate whats required in the field. The item list should follow a listview. The text field and the button should be at the lower end of the view and shouldnt override with the list view. 
 	•	 Required: When holding the click for long on an item, the item should get removed from the list.
-	•	 Required: When the actions are performed, the list should get persisted in a file. When the app re-opens, the data should be recovered from the file. 
-Notes:
-I couldnt find anything optional required for this app. Is there anything? 
-Also, did I have to commit on thecodepath, I committed to my personal git account?
+	•	 Required: When the actions are performed, the list should get persisted in a file. When the app re-opens, the data should be recovered from the file. ![AndroidTodo](androidTodo.gif)
